@@ -1,0 +1,53 @@
+body {background: #404040; }
+#head {background: #404040 !important; background-image: none !important; display: none;}
+div#body-container {background: #393d38 !important; color: #fff;border-top: 2px #252524 solid;}
+h3.novinky {color: #92c17b !important;}
+a,
+a:visited {color: #92c17b !important;}
+a:hover {text-decoration: underline;}
+div#container {background: #486e36 !important; width: 1200px !important;}
+div.menu ul li ul li a {padding: 3px 45px 3px 20px !important;}
+div.menu ul,
+div.menu ul a,
+div.menu ul a:visited,
+div.menu {background-color: #404040 !important; font-size: 13px;}
+div.menu ul li:hover,
+div.menu ul li a:hover{background: #181818 !important; color: #fff !important;}
+div.menu ul li ul {border: 1px #000 solid !important; padding-bottom: 0px !important;}
+div.menu ul li ul li a {width: auto !important;}
+
+ul#sub-menu li,
+ul.sub-menu li {background: none !important; list-style: circle;}
+
+ul#top-odkazy li { color:#404040 !important; }
+ul#top-odkazy li:first-child {display: none;}
+ul#top-odkazy {width: 1200px !important;}
+div#roller-box {display: none !important;}
+ul.important-messages {border:2px #92c17b solid !important;}
+h4#im {background: #92c17b !important; color: #fff;}
+li.info {color: #92c17b !important;}
+
+table#rozvrh {color: #20241e !important; }
+table#rozvrh tr:hover {background: #20241e !important;}
+
+table#rozvrh ul li:last-child,
+table#rozvrh ul li:first-child {padding-bottom: 4px; padding-top: 4px;}
+table#rozvrh ul li abbr {font-weight: bold; font-size: 13px;}
+table#rozvrh tr th.w-50 {color: #92c17b !important; width: auto;}
+
+legend,
+table th,
+div#body h1,
+div#body h2,
+div#body h3 {color: #92c17b !important;}
+
+table th,
+tbody th,
+thead th,
+tr.sudy {background: #20241e !important;}
+
+div.rozvrh-netisknout table tr:hover {background-color: #181818 !important;}
+
+div.aktuality {background: #393d38 !important;}
+
+p {line-height: 150% !important;}
